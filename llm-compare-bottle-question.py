@@ -1,4 +1,4 @@
-#Allows you to ask a question and the answer is based off of a faq file
+#Allows you to ask a question 
 from bottle import route, post, run, request
 import sqlite3
 import os
