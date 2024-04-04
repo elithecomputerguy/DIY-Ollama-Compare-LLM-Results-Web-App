@@ -1,0 +1,29 @@
+hours of operation:
+    monday 10am - 5pm
+    tuesday 12pm - 8pm
+    wednesday 10am - 5pm
+    thursday 12pm - 8pm
+    friday 12pm - 8pm
+    saturday 10am - 2pm
+    sunday 10am - 3pm
+
+menu items:
+    sides:
+        fries - $1
+        salad - $5
+    sandwiches:
+        burger - $10
+        fish sandwich - $11
+        chicken sandwich - $10
+        veggie sandwich - $9
+        portebello wrap - $8
+    entrees:
+        lasagna - $15
+        vegan lasagna - $20
+        roast chicken - $16
+        steak - $30
+    
+    drinks:
+        soda - $3
+        milk - $2
+        water - $4
